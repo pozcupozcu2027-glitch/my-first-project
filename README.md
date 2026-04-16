@@ -1,13 +1,21 @@
-
 # 👋 Hello!
 
-This is my first GitHub project 🎉
+Welcome to my first GitHub project 🎉  
+
+I'm currently living in Germany 🇩🇪 and starting my journey into coding 💻  
 
 ## 🚀 My Goals
-- Learn coding
-- Build projects
-- Improve my skills
+- Learn programming step by step
+- Build real projects
+- Grow my skills every day
+
+## 🌱 Currently Learning
+- Git & GitHub
+- Basics of coding
 
 ## 🛠️ Tools I Use
 - GitHub
-- (more coming soon 😄)
+- More coming soon 🚀
+
+## ✨ About Me
+I’m just getting started, but I’m motivated to learn and improve every day!
