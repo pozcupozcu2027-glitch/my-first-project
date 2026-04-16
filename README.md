@@ -1,35 +1,37 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">🚀 My First Project</h1>
 
 <p align="center">
-  🚀 Beginner Developer | 🇩🇪 Living in Germany | 💻 Learning Coding
+  💻 Beginner Developer | 🇩🇪 Living in Germany | 🌱 Learning Every Day
 </p>
 
 ---
 
-## 🌟 About Me
-- 🌍 Based in Germany  
-- 💻 Currently learning programming  
-- 🚀 Motivated to build cool projects  
+## 🌟 About This Project
+This is my first GitHub project where I start my coding journey.  
+I will build and improve this project step by step.
 
 ---
 
-## 🚀 My Goals
-- Learn coding step by step  
-- Build real-world projects  
-- Improve every day  
+## 🚀 What I'm Doing Here
+- Learning HTML, CSS, and GitHub  
+- Building my personal website  
+- Sharing my progress  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies
+- HTML  
+- CSS (coming soon)  
 - Git & GitHub  
-- More coming soon...  
 
 ---
 
-## 📈 My Journey
-I just started my coding journey, but I'm excited to grow and create amazing things! ✨  
+## 📌 Status
+🟢 Project started – more updates coming soon!
 
 ---
 
-## 🤝 Connect with me
-(coming soon...)
+## ✨ Future Plans
+- Add styling 🎨  
+- Make it responsive 📱  
+- Publish it online 🌐  
